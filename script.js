@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "¿Qué producto es CLAVE para que las sombras pigmenten más y duren horas?",
       options: [
         {
-          text: "Correctr",
+          text: "Corrector",
           img: "Imagenes/product-packshot.webp",
         },
         {
